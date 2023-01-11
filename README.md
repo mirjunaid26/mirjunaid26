@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mir Junaid
-- 👀 I’m interested in Graph Machine Learning, Computer Vision, and Natural Language Processing.
+- 👀 I’m interested in Graph Machine Learning, Natural Language Processing, and Computer Vision.
 - 🌱 I’m currently working on lot of stuff including my PhD thesis.
 - 💞️ I’m looking to collaborate on Graph Machine Learning.
 - 📫 Reach me at  mir.jnd@gmail.com
