@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mir Junaid
+- 👋 Hi, I’m Mir Junaid https://mirjunaid26.github.io/
 - 👀 I’m interested in Graph Machine Learning, Natural Language Processing, and Computer Vision.
 - 🌱 I’m currently working on lot of stuff including my PhD thesis.
 - 💞️ I’m looking to collaborate on Graph Machine Learning.
