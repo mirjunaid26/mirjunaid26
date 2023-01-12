@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graph Machine Learning, Natural Language Processing, and Computer Vision.
 - 🌱 I’m currently working on lot of stuff including my PhD thesis.
 - 💞️ I’m looking to collaborate on Graph Machine Learning.
-- 📫 Reach me at [LinkedIn](https:www.linked.com/in/mirjunaid26/).
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mirjunaid26/).
 
 <!---
 mirjunaid26/mirjunaid26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
