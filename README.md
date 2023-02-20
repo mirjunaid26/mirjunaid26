@@ -5,7 +5,6 @@
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mirjunaid26/).
 
 
-Test
 
 <!---
 mirjunaid26/mirjunaid26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
