@@ -9,20 +9,3 @@
 mirjunaid26/mirjunaid26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-commit1
-commit2
-commit3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
