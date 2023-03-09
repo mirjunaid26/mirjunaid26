@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graph Machine Learning, Natural Language Processing, and Computer Vision.
 - 🌱 I’m currently working on lot of stuff including my PhD thesis.
 - 💞️ I’m looking to collaborate on Graph Machine Learning and High Performance Computing in AI.
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mirjunaid26/).
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mirjunaid26/)...
 
 
 <!---
