@@ -2,7 +2,7 @@
 - 👀 I’m interested in High-Performance Computing, Graph ML, NLP, & Software Development.
 - 🌱 I’m currently working on a lot of stuff including my Ph.D. thesis.
 - 💞️ I’m looking to collaborate on Graph Machine Learning, Geometric Deep Learning, and High-Performance Computing in AI.
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mirjunaid26/)...
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mirjunaid26/).
 
 
 <!---
