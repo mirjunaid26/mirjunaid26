@@ -1,4 +1,5 @@
 - Hi, I’m [Mir Junaid](https://mirjunaid26.github.io/).
+- I’m a Scientific Computing Consultant specializing in AI and High-Performance Computing (HPC).
 - I’m interested in High-Performance Computing, Large Language Models, Computer Vision, & Graph ML.
 - I’m looking to collaborate on Graph Machine Learning, Geometric Deep Learning, and High-Performance Computing in AI.
 - Reach me at [LinkedIn](https://www.linkedin.com/in/mirjunaid26/).
